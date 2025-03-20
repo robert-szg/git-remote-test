@@ -19,4 +19,5 @@ print("git config user.email \"email might be private, better check in GitHub\""
 print("git branch -m master main")
 print("git branch")
 
+print("This was updated")
 
